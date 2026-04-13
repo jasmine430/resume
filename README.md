@@ -1,4 +1,4 @@
-# resume
+# Resume
 # 👋 Hi, I'm jasmine
 
 💻 Web Designer & Developer  
