@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🌱 I’m currently learning: Framework , couses etc..
+- 🌱 I’m currently learning: Framework , courses etc..
 - 🔭 I’m working on: commercial websites
 - 💬 Ask me about: HTML, CSS, JavaScript, UI/UX Design
 - 📫 How to reach me: jasminejais58@gmail.com
@@ -27,20 +27,7 @@
 - HTML5
 - CSS3 / Sass / Tailwind
 - JavaScript (ES6+)
-- React / Next.js (if applicable)
 - Git & GitHub
-
----
-
-## 🚀 Projects
-
-Here are some of my featured projects:
-
-### 🔹 [Project Name]
-- 📌 Description: Short explanation of the project
-- 🛠️ Tech Used: HTML, CSS, JS
-- 🔗 Live Demo: [Link]
-- 📂 Repo: [GitHub Link]
 
 ---
 
