@@ -21,11 +21,11 @@
 
 ### 🎨 Design
 - UI/UX Design
-- Figma / Adobe XD / Photoshop
+  
 
 ### 💻 Development
 - HTML5
-- CSS3 / Sass / Tailwind
+- CSS / Saas 
 - JavaScript (ES6+)
 - Git & GitHub
 
