@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>News App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav class="nav">
+  <div class="nav-left">
+    <img src="I specialize in creating unique and attractive….jfif" width="60">
+    
+    <input type="text" id="search-input" placeholder="Search news...">
+    <button onclick="searchNews()">Search</button>
+  </div>
+  <div class="nav-links">
+    <p>IPL</p>
+    <p>FINANCE</p>
+    <p>POLITICS</p>
+  </div>
+</nav>
+ </div>
+</nav>
+<main>
+  <div id="cards-container" class="cards-container"></div>
+</main>
+<div class="card"></div>
+<!-- LOGIN -->
+<div id="login-container">
+    <h2>Login</h2>
+    <input type="text" id="login-username" placeholder="Username">
+    <input type="password" id="login-password" placeholder="Password">
+    <button onclick="login()">Login</button>
+    <p>Don't have account? <span onclick="showSignup()">Signup</span></p>
+</div>
+
+<!-- SIGNUP -->
+<div id="signup-container" style="display:none;">
+    <h2>Signup</h2>
+    <input type="text" id="signup-username" placeholder="Username">
+    <input type="password" id="signup-password" placeholder="Password">
+    <button onclick="signup()">Signup</button>
+    <p>Already have account? <span onclick="showLogin()">Login</span></p>
+</div>
+<button onclick="logout()">Logout</button>
+
+<template id="template-news-card">
+  <div class="card">
+    <div class="card-header">
+      <img id="news-image">
+    </div>
+    <div class="card-content">
+      <h3 id="news-title"></h3>
+      <p id="news-desc"></p>
+    </div>
+  </div>
+</template>
+
+<script src="script.js"></script>
+</body>
+</html>
